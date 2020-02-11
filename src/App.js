@@ -9,7 +9,7 @@ function App() {
   return (
     <Provider store={store}>
       <div>
-        <Profile/> 
+        <Profile/>
         <Id/>
         <User/>
       </div>
