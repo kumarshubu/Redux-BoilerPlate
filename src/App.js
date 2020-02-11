@@ -8,7 +8,7 @@ import store from './Redux/Store.js'
 function App() {
   return (
     <Provider store={store}>
-      <div>
+      <div> 
         <Profile/>
         <Id/>
         <User/>
